@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.4",
         "slim/slim": "2.4.x",
-        "league/fractal": "0.6.0",
+        "league/fractal": "0.9.x",
         "php-loep/monga": "1.0.x"
     },
     "require-dev": {
